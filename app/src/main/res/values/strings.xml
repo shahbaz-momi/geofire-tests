@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Geofire Testing</string>
+    <string name="content_description_logo">Logo</string>
+    <string name="company_name">Asdev</string>
+
+    <string name="firebase_sign_in_cancelled">Sign in cancelled!</string>
+    <string name="firebase_sign_in_no_network">No network connection!</string>
+    <string name="firebase_sign_in_unknown">Sign in failed!</string>
+    <string name="button_sign_out">Sign out</string>
+    <string name="text_profile">Profile screen</string>
+    <string name="content_description_error">Error</string>
+    <string name="text_error_offline">Offline, attempting to reconnect…</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="permission_rationale_location">Access to the location service is required to show games in your area.</string>
+    <string name="permission_required_toast">Location permission is required to show games in your area.</string>
+    <string name="location_permission_denied">Location permission is needed to show games in your area.</string>
+    <string name="label_user_location">Your location</string>
+    <string name="text_error_request_timeout">Error: Search took too long. Check your connection.</string>
+    <string name="button_search_area">Search area</string>
+
+</resources>
